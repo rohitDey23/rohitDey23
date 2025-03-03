@@ -6,7 +6,7 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/rohit-dey/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="linkedin logo" /></a>
-  <a href="[https://rohitDey23.github.io](https://rohitdey23.github.io/about/)"><img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="github logo" href="https://rohitDey23.github.io" /></a>
+  <a href="https://rohitdey23.github.io/about/"><img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="github logo" href="https://rohitDey23.github.io" /></a>
 </div>
 
 ###
